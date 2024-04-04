@@ -61,4 +61,12 @@ El quinto elemento es un hipervinculo , que al tener " href = "#" " significa qu
 
 El sexto elemento es un hipervinculo con el atributo name que se utiliza principalmente para crear anclas internas en una página web. Puedes asignar un nombre a un elemento específico (como un párrafo, una imagen o una sección) y luego enlazar a ese nombre desde otro lugar en la misma página. Y el atributo id se utiliza para identificar de manera única un elemento en toda la página. Se suele usar para aplicar estilos CSS o para acceder al elemento mediante JavaScript.
 
-3.b) = 
+3.b) = El primer elemento es un parrafo que contiene primero una imagen  y segundo un hipervinculo con el contenido de Clik aqui que te direcciona a "http://www.google.com.ar" . 
+
+El segundo elemento tambien es un parrafo que tiene dentro un hipervinculo que tiene como contenido una imagen que nos direcciona (al clickearla) a  "http://www.google.com.ar" . Y el parrafo tiene como contenido "Click aqui".
+
+El tercer elemento tambien es un parrafo que contiene un hipervinculo que tiene como contenido una imagen y "Click aqui" con un href a "http://www.google.com.ar" .
+
+El cuarto elemento es un parrafo que contiene dos hipervinculos , el primero tiene como contenido una imagen y el segundo tiene como contenido "Click aqui" .
+
+3.c) = 
