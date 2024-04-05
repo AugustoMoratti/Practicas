@@ -69,4 +69,22 @@ El tercer elemento tambien es un parrafo que contiene un hipervinculo que tiene 
 
 El cuarto elemento es un parrafo que contiene dos hipervinculos , el primero tiene como contenido una imagen y el segundo tiene como contenido "Click aqui" .
 
-3.c) = 
+3.c) = El primer elemento es una lista desordenada que contiene 3 List items.
+
+El segundo elemento es una lista ordenada que contiene 3 List items. Donde cada elemento tiene un indice que va del 1 al 3. Sin la necesidad de colocarle un valor.
+
+El tercer bloque de codigo tiene 3 listas ordenadas, cada una contiene un Items, y a la segunda y tercera lista se le agrego a cada item un value. La diferencia grafica con el anterior es que entre cada elemento hay un espacio.
+
+El cuarto elemento no es una lista sino un bloque que contiene un parrafo con saltos de linea, graficamente se puede notar que tiene un margen en todas las direcciones, en cambio las listas solo vienen con un margin top y bottom.
+
+3.d) El primer bloque de codigo es una tabla que tiene 3 filas y 2 columnas. Tiene cabeceras "Columna 1" y "Columna 2" , y 4 celdas.
+
+El segundo bloque de codigo es una tabla que tiene 3 filas y 2 columnas. No tiene cabeceras , pero simula tenerlas con un div(centrado) y un strong para que la palabra resalte mas. Ambos bloques se ven iguales , pero no son iguales.
+
+3.e)El primer bloque es una tabla que tiene una etiqueta caption que es la que se usa para asignarle un titulo a una tabla , tambien tiene 2 filas y 3 columnas.
+
+El segundo bloque es una tabla que en vez de usar un caption , se uso una fila con una sola columna que ocupa el espacio de 3 columnas (colspan ="3")  y dentro se coloco un div (centrado) con el elemento Titulo, tambien tiene 2 filas y 3 columnas , aparte de la fila que se uso como titulo.
+
+ambas ocupan un ancho de 200px.
+
+3.f)
