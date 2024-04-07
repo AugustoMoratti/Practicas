@@ -99,4 +99,11 @@ El segundo bloque a diferencia del primero no usa la etiqueta fieldset , coloca 
 
 El tercer bloque es igual al primero lo que cambia es que el action es enviar un mail y el input con el valor "enviar" es de tipo de reset o sea que vuelve a poner como defecto los demas input. Este no utiliza valores por defectos en los inputs de tipo password y text.
 
-3.i)
+3.i) El primer elemento es un boton que contiene una imagen y un texto dentro.
+En cambio el segundo elemento es un input de tipo button con el valor "Click Aqui".
+Dos formas distintas de hacer un boton.
+
+3.j)El primer elemento es un parrafo que contiene 2 label y que ambos contiene un input de tipo radio. Son opciones , no podes seleccionar ambas ya que tienen el mismo name.
+En cambio en el segundo bloque podes seleccionar ambas opciones.
+
+3.k)
