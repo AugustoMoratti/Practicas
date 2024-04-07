@@ -106,4 +106,4 @@ Dos formas distintas de hacer un boton.
 3.j)El primer elemento es un parrafo que contiene 2 label y que ambos contiene un input de tipo radio. Son opciones , no podes seleccionar ambas ya que tienen el mismo name.
 En cambio en el segundo bloque podes seleccionar ambas opciones.
 
-3.k)
+3.k)La diferencia es que con el atributo multiple con el valor de multiple se muestra un cuadro de lista de desplazamiento en lugar de un menu desplegable de una sola linea.
