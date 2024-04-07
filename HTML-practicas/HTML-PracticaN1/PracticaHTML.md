@@ -87,4 +87,16 @@ El segundo bloque es una tabla que en vez de usar un caption , se uso una fila c
 
 ambas ocupan un ancho de 200px.
 
-3.f)
+3.f) Ambos bloques de codigo son una tabla con 3 columnas y 3 filas.
+Ambos codigos tiene colocado el titulo de igual forma con una fila que ocupa todas las columnas de la tabla, difieren en el primer elemento de la tabla donde en el primer bloque de codigo es una celda que ocupa 1 columna y 2 filas en cambio en el segundo bloque de codigo esta celda ocupa 2 columnas y 1 fila. 
+Luego cada celda ocupa solo 1 espacio en la fila y columna.
+
+3.g) En estos bloques podemos notar que en el segundo bloque se aplicaron los atributos border, cellpadding y cellspacing , estos dos ultimos con el valor 0 lo que hace es quitar el espacio entre celdas y generar que el borde sea uno solo , en cambio en el bloque 1 podemos notar que solo tiene el atributo border y lo que sucede es que hay como un doble borde , ya que bordea la tabla y dentro a cada celda.
+
+3.h) El primer bloque de codigo es un formulario echo con fieldset(es un bloque con borde que encierra los inputs) , con el titulo del formulario , login. Al ver el formulario vemos que no utiliza la etiqueta label y que contienen valores por defecto sus inputs , tiene 2 inputs , uno de tipo texto y el otro tipo password.Tambien notamos que el boton con valor "enviar" es de tipo submit y al colocarlo envia el formulario a "procesar.php" . Utiliza en el method post este no cambia la url despues del form y los datos lo encontramos en network en inspeccionar.
+
+El segundo bloque a diferencia del primero no usa la etiqueta fieldset , coloca el titulo directamente y utiliza un br para un salto de linea , pero si utiliza labels. Sus inputs no tienen tipos especiales sino que directamente son de tipo texto. Sus inputs no tienen valores por defecto. Este tiene un input con el valor "enviar" de tipo submit o sea que envia lo que tengan los valores dentro de los inputs , no se especifica la direccion en el form, utiliza el method get (envia los valores dentro de los campos a traves de la url) , utiliza un target _blank , lo que hace es abrir de nuevo el mismo formulario con campos vacios.
+
+El tercer bloque es igual al primero lo que cambia es que el action es enviar un mail y el input con el valor "enviar" es de tipo de reset o sea que vuelve a poner como defecto los demas input. Este no utiliza valores por defectos en los inputs de tipo password y text.
+
+3.i)
