@@ -32,6 +32,7 @@
 }*/
 
 
+
 /*Codigo ejercicio 4*/
 /* * {color:green; }
 a:link{color:gray }
@@ -44,7 +45,49 @@ p {font-family: arial,helvetica;font-size: 10px;color:black; }
 
 
 
-/*Codigo ejercicio 4*/ 
+/*Codigo ejercicio 5*/ 
+/*(1)
+h1{
+    color: red;
+}
+
+(2)
+div > p > *[href]{
+    color: black;
+}
+
+(3)
+div#ultimo > ul > li {
+    color: yellow;
+}
+div#ultimo a:link{
+    color:gray;
+}
+
+(4)
+div > #importante{
+    color: green;
+}
+div > h1#importante{
+    color: red;
+}
+
+(5)
+h1[title]{
+    color: blue;
+}
+
+(6)
+ol a:link{
+    color: blue;
+    text-decoration: none;
+}
+ol a:visited{
+    color: violet;
+    text-decoration: none;
+} */
+
+
 
 
 
