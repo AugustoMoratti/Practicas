@@ -25,6 +25,18 @@
     }
 
   Salida por pantalla =
-    
+    boolean 
+    string
+    string
+    integer
+    1
+    xyz
+    xyz
+    18
+    44
+    44
+  
+
+  2) 
 
 
