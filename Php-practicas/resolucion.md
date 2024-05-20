@@ -36,7 +36,26 @@
     44
     44
   
+-----------------------------------
+2) 
+  
+  a) Son equivalentes , tienen la misma salida que es 12345678910
 
-  2) 
+  b) Son equivalentes , tienen la misma salida (12345678910).
+
+  c) Son equivalentes, ambos codigos comparan una variable y segun su valor imprimen en pantalla el valor que tenga.
+
+-----------------------------------
+3) 
+
+  a) Este codigo se utiliza para formar una tabla de 5 filas y 2 columnas con un borde de 1px.
+
+  b) Este codigo muestra un formulario que te pide ingresar la edad y te indica si sos mayor de edad o menor de edad.
+
+-----------------------------------
+4) La primer salida será un warning ya que no estan definidas las variables de la primer linea de codigo y luego mostrará "el clavel blanco"
+-----------------------------------
+5) 
+
 
 
