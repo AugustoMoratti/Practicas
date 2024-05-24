@@ -21,4 +21,3 @@ $devolucion = comprobar_nombre_usuario($nombre);
 echo $devolucion;
 
 ?>
-
