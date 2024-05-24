@@ -1,7 +1,4 @@
 <?php
 include("ejercicio6.php");
-echo "ingrese su nombre : ";
-fscanf(STDIN,"%s",$nombre);
-$devolucion = ejercicio6($nombre);
-echo $devolucion;
-?>
+$nombre1 = "Augusto08";
+$devolucion1 = ejercicio6($nombre1);
