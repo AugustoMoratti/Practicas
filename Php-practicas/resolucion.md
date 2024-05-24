@@ -63,4 +63,15 @@
 1) Los codigos son equivalentes, ambos estan cargando un array asociativo con las mismas claves-valor.
 -----------------------------------
 2) 
- 
+  a) bar1
+  b) 5942
+  C) No habra salida en pantalla , la matriz ya no estará definida.
+-----------------------------------
+3) 
+  a)Has entrado en esta pagina a las (hora que entraste) horas, con (Minutos en que entraste) minutos y (Segundos en que entraste) segundos, del (dia/mes/año - fecha).
+  b)5 + 6 = 11
+-----------------------------------
+4) 
+  Es una funcion que al recibir una cadena que dentro de la funcion recibe el nombre de (nombre_usuario) , se chequea que la cadena cumpla con dos condiciones que sea mayor a 3 y menor que 20 si no cumple alguna de esas condiciones returna que el nombre no es valido.
+  Si la funcion cumple con la longitud pasa revisarse que cumpla con los caracteres posibles de uso , usa un for y dentro un if , este if compara un caracter leido del nombre con la cadena de caracteres permitidos , utilizando substr para hallar uno por uno los caracteres del nombre y strpos para buscar el caracter del nombre dentro de la cadena de caracteres permitidos , si este if es falso nos returna que el nombre no es valido.
+  Si pasa ambos if returna el nombre es valido.
