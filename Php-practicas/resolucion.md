@@ -55,7 +55,12 @@
 -----------------------------------
 4) La primer salida será un warning ya que no estan definidas las variables de la primer linea de codigo y luego mostrará "el clavel blanco"
 -----------------------------------
-5) 
+5) Echo en una carpeta llamada "Ejercicio 5"
+-----------------------------------
 
 
-
+-----------------------------------
+1) Los codigos son equivalentes, ambos estan cargando un array asociativo con las mismas claves-valor.
+-----------------------------------
+2) 
+ 
